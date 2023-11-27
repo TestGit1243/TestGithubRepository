@@ -13,10 +13,5 @@ namespace TestGithubRepository.Controllers
             return View();
         }
 
-        public string abcdd()
-        {
-            return "test";
-        }
-
     }
 }
